@@ -1,0 +1,9 @@
+# Site navigation links
+
+- title: Portfolio
+  url: /portfolio/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  image: SiteTeaserImage.png
+
+- title: Made Mistakes
+  url: http://mademistakes.com  

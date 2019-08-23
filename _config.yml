@@ -1,11 +1,11 @@
 # Site wide configuration
 
 title: "Diversity of hobbies~*"
-description: "This blog is a place to keep a log of your life."
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
+description: "This blog is a place to keep a log of my life."
+logo: logo.png # 120x120 px default image used for Twitter summary card
+teaser: SiteTeaserImage.png # 400x250 px default teaser image used in image archive grid
 locale: en
-url:https://gamto.github.io/
+url: "https://gamto.github.io/"
 feed:
   path: atom.xml
 
@@ -25,9 +25,9 @@ gems:
 
 
 # Site owner
-owner:gamto
-  name: 감투
-  email: gamto@outlook.com
+owner: 
+  name: "감투"
+  email: "gamto@outlook.com"
   twitter:
   google:
     ad-client:
